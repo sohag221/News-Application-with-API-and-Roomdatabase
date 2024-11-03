@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Android_ChatGPT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_Chat_Application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BMICalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BuyFurniture" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatGPT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChatGPTs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DialogFragment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirebaseAuthenticationusingPhoneNumer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FirebaseWebRTCVideoCall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GeminiAI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/News-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProductsAdder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QRCScanner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Simple Calculator With Kotlin/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TextOCRApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToeGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WeatherApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WhatsApp-Clone-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kleine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/whatsAPP" vcs="Git" />
+  </component>
+</project>
