@@ -8,6 +8,10 @@ import androidx.room.TypeConverters
 import com.example.thenewsapp.models.Article
 import kotlin.concurrent.Volatile
 
+
+
+
+
 @Database(
     entities = [Article::class],
     version = 1
@@ -26,7 +30,7 @@ abstract class ArticleDatabase: RoomDatabase() {
             }
         }
 
-        private fun createDatabase(context: Context)=
+        private fun createDatabase(context:Context)=
             Room.databaseBuilder(
                 context.applicationContext,
                 ArticleDatabase::class.java,
