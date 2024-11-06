@@ -6,7 +6,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.NewsActivity">
+    tools:context=".ui.NewsActivity"
+    android:background="@color/purple">
 
 
     <FrameLayout
@@ -35,6 +36,7 @@
         android:layout_height="80dp"
         app:menu="@menu/bottom_nagiveation_menu"
         app:itemTextColor="@color/white"
+        app:itemIconSize="24dp"
         app:itemIconTint="@color/white"
         android:background="@color/purple"
         app:itemActiveIndicatorStyle="@style/App.Custom.Indicator"
